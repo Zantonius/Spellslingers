@@ -1,0 +1,2 @@
+C:\Users\nikla\OneDrive\Dokument\SpellSlingersAlpha\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\nikla\OneDrive\Dokument\SpellSlingersAlpha\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
