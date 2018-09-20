@@ -1,0 +1,2 @@
+# Spellslingers
+Hobby gaming project
